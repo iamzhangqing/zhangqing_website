@@ -1,0 +1,9 @@
+# jemdoc: menu{MENU}{eit.html}
+# jemdoc: addcss{./jemdoc.css}
+# jemdoc: title{Contact}
+# jemdoc: analytics{|}
+# jemdoc: nofooter
+
+= Contact Us
+email: d.x.er@sjtu.edu.cn 
+address: Shanghai Jiaotong Uniiversity, 800th Dongchuan Rd, Minhang District, Shanghai China

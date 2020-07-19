@@ -1,0 +1,15 @@
+# jemdoc: menu{MENU}{biography.html}
+# jemdoc: addcss{./jemdoc.css}
+# jemdoc: title{Biography}
+# jemdoc: analytics{|}
+# jemdoc: nofooter
+
+~~~
+{}{img_left}{./image/zhangqing_image.jpg}{Zhang Qing}{170}{}{}
+= Zhang Qing
+
+*E-mail:* zhangqingisme@sjtu.edu.cn
+
+~~~
+2015.09 - 2019.06: Central South University
+2019.09 -        : Shanghai Jiaotong University
